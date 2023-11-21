@@ -803,6 +803,14 @@ blockquote {
   color: var(--ghost-white);
 }
 
+.about-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 50em;
+}
+
 .about-number-copy {
   grid-column-gap: .75em;
   align-items: flex-end;
